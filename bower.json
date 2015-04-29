@@ -1,11 +1,12 @@
 {
   "name": "transform-keys-angular",
   "main": "transform-keys.js",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "homepage": "https://github.com/haffmaestro/transform-keys",
   "authors": [
-    "Bjorge Ness <www.bengler.no>"
-  ],["Halfdan Hem <www.github.com/haffmaestro>"],
+    "Bjorge Ness <www.bengler.no>",
+    "Halfdan Hem <www.github.com/haffmaestro>"
+  ],
   "description": "Angular factory to recursively transform object keys",
   "keywords": [
     "angular",
